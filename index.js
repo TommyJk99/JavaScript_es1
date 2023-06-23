@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 3) Undefined e null sono la stessa cosa.
 
-3) Undefined e null non sono la stessa cosa. Una valore undefined è caratteristico di una variabile che è 
+3) Undefined e null non sono la stessa cosa. Un valore undefined è caratteristico di una variabile che è 
    stata definita ma a cui non è stato ancora attribuito un valore. Un valore null fa riferimento ad una
    variabile definita a cui è stato attribuito il valore "null". 
 __________________________________________________________________________________________________________________
